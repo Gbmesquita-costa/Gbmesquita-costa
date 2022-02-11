@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Gbmesquita-costa  👋
 
 - 🔭 Em busca de trabalho
-- 🌱 Estou atualmente estudando Firebase
+- 🌱 Estou atualmente estudando React, typescript e node
 - 👯 Estou procurando colaborar em projetos
 - 📫 Contato por e-mail: mesquitag313@gmail.com
 - 😄 Pronouns: ele/dele
