@@ -4,7 +4,6 @@
 - 🌱 Estou atualmente estudando React, typescript e node
 - 👯 Estou procurando colaborar em projetos
 - 📫 Contato por e-mail: mesquitag313@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Gbmesquita-costa">
