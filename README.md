@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Gbmesquita-costa  👋
+### Olá!! Eu sou o Gabriel Mesquita  👋
 
 - 🔭 Em busca de trabalho
 - 🌱 Estou atualmente estudando React, typescript e node
