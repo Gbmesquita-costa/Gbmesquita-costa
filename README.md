@@ -1,6 +1,6 @@
 <p align="center">
  Presently, my work revolves around ReactJS, NextJS, TypeScript, and NodeJS, technologies that I routinely leverage to create high-quality, high-performance web applications. I am dedicated to ongoing professional growth and continuous learning, striving to improve each day. 💜🚀
-</p> nbsp;
+</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gbmesquita-costa&theme=radical&mode=weekly" /> 
