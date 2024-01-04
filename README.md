@@ -1,4 +1,6 @@
-<p align="center">I hold a degree in Systems Analysis and Development and currently serve as a Full Stack Developer with a primary focus on utilizing Next.js, TypeScript, ReactJS, JavaScript, Sass, Node.js, and various other technologies to craft web applications.
+<p align="center">
+ Presently, my work revolves around ReactJS, NextJS, TypeScript, and NodeJS, technologies that I routinely leverage to create high-quality, high-performance web applications. I am dedicated to ongoing professional growth and continuous learning, striving to improve each day. 💜🚀
+</p>
 
 My unwavering commitment to continuous learning and passion for programming drive me to take on new challenges and surpass boundaries. I am always on the lookout for opportunities that allow me to enhance my programming skills, whether it's developing innovative applications or efficient web solutions—I am determined to contribute with excellence.
 
