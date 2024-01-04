@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Gabriel Mesquita  👋
 
 - 🔭 Em busca de trabalho
-- 🌱 Estou atualmente estudando React, typescript e node
+- 🌱 Estou atualmente estudando python
 - 👯 Estou procurando colaborar em projetos
 - 📫 Contato por e-mail: mesquitag313@gmail.com
 
