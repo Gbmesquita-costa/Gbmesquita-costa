@@ -5,20 +5,12 @@
 </p>
 
 <p align="center">
-  I'm a developer from Brazil passionate about software architecture and transforming complex problems into elegant solutions. Presently, my work revolves around the JavaScript/TypeScript ecosystem, creating full-stack applications from the database modeling to the frontend user experience.
+  I'm a developer from Brazil passionate about software architecture and transforming complex problems into elegant solutions. Presently, my work revolves around the JavaScript/TypeScript ecosystem, creating full-stack applications from database modeling to the frontend user experience.
 </p>
 
 <div align="center" style="margin-bottom: 40px">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Gbmesquita-costa&theme=radical&mode=weekly" alt="GitHub Streak Stats" /> 
 </div>
-
-## 🚀 Featured Projects
-
-*(Substitua os links abaixo pelos links reais dos seus repositórios ou sites em produção)*
-
-*   🚗 **[Trajetto](#)**: A complete fleet management platform featuring a React Native mobile app, Fastify backend API, Next.js web interface, and OSRM routing integration.
-*   🕊️ **[InMemora](#)**: A B2B web-based cemetery management and administrative system built with Next.js and Node.js.
-*   📂 **[Dowfile](#)**: A monetized file hosting and upload platform with custom authentication flows and backend APIs.
 
 ---
 
@@ -35,10 +27,13 @@
 
 #### Backend & Infrastructure:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### Databases & Caching:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,9 +45,11 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-#### Workstation Tools:
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
+#### Workstation & Environment:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <br clear="all">
