@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://www.ressoara.com/" target="_blank">
-    <img src="https://www.ressoara.com/og-image.png" width="90%" alt="Ressoara - Professional Multitrack Audio Editor">
+    Ressoara - Professional Multitrack Audio Editor
   </a>
 </p>
 
